@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Recategorize vanilla items into AnimalFeed (Copied from VGP Vegetable Garden) -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName = "Kibble"]/thingCategories</xpath>
+    <value>
+      <thingCategories>
+        <li>AnimalFeed</li>
+      </thingCategories>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName = "Hay"]/thingCategories</xpath>
+    <value>
+      <thingCategories>
+        <li>AnimalFeed</li>
+      </thingCategories>
+    </value>
+  </Operation>
+</Patch>

@@ -1,81 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Extended Storage Extended</name>
-	<author>TerraggosaurusRex</author>
-	<packageId>Terragg.ExtendedStorage.Extended</packageId>
-	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=1535875857</url>
-	<supportedVersions>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies>
-		<li>
-			<packageId>Skullywag.ExtendedStorage</packageId>
-			<displayName>Extended Storage</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/731732064</steamWorkshopUrl>
-		</li>
-	</modDependencies>
-	<loadAfter>
-		<li>Skullywag.ExtendedStorage</li>
-	</loadAfter>
-	<description><![CDATA[ <size=32>Extended Storage - now Extended!</size>
+  <name>Extended Storage Extended (Continued)</name>
+  <packageId>Mlie.ExtendedStorageExtended</packageId>
+  <author>TerraggosaurusRex</author>
+  <url>https://github.com/emipa606/ExtendedStorageExtended</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Mlie.ExtendedStorage</packageId>
+      <displayName>Extended Storage (Continued)</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2566120724</steamWorkshopUrl>
+      <downloadUrl>https://github.com/emipa606/ExtendedStorage/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Mlie.ExtendedStorage</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of TerraggosaurusRexs mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1535875857
 
-<size=24>About</size>
+- The weapon-storages should now hold all weapons distributed between the sizes by the weapon-mass
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/ExtendedStorageExtended][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+[h1]Extended Storage - now Extended![/h1]
+[b]About[/b]
 ================================================================
-
 Expands the options for storing stuff by providing Extended Storage-derived buildings.
 
-<size=24>Contents</size>
+[b]Contents[/b]
 ================================================================
-
 There is a limit to Steam description readability and size.  The breakdown or what building does what is available online at:
 
-   https://github.com/Terragg/Extended-Storage-Extended/blob/master/Docs/Contents.md
+   [url=https://github.com/Terragg/Extended-Storage-Extended/blob/master/Docs/Contents.md]https://github.com/Terragg/Extended-Storage-Extended/blob/master/Docs/Contents.md[/url]
 
-<size=24>Dependancies</size>
+[b]Dependancies[/b]
 ================================================================
+Requires a working copy of Extended Storage:
 
-Requires a working copy of the Extended Storage:
+   [url=https://steamcommunity.com/sharedfiles/filedetails/?id=731732064]https://steamcommunity.com/sharedfiles/filedetails/?id=731732064[/url]
 
-   https://steamcommunity.com/sharedfiles/filedetails/?id=731732064
-
-<size=24>Supports</size>
+[b]Supports[/b]
 ================================================================
-<size=18>Combat Extended</size>
-
+[b]Combat Extended[/b]
 Ammo storage in Pallets and Explosives Containers, based on type of ammo.
 
 Hat-tip: jinlan
 
-<size=24>KNOWN ISSUES</size>
+[b]KNOWN ISSUES[/b]
 ================================================================
 
-<size=18>Meat Hooks: Disappearing corpses glitch</size>
+[b]Meat Hooks: Disappearing corpses glitch[/b]
 --------------------------------
+A patch to fix a semi-related issue in Extended Storage now allows corpses to be built in a &apos;bugged&apos; state when splurged.  This bugged state is detected by the game and those corpses are immediately deleted.  There is only one current workaround, do not adjust Meat Hook filters while there are corpses stored - allow pawns to remove all corpses before adjusting filters.
 
-A patch to fix a semi-related issue in Extended Storage now allows corpses to be built in a 'bugged' state when splurged.  This bugged state is detected by the game and those corpses are immediately deleted.  There is only one current workaround, do not adjust Meat Hook filters while there are corpses stored - allow pawns to remove all corpses before adjusting filters.
-
-<size=18>Weapons Racks: Only top weapon is right-click selectable</size>
+[b]Weapons Racks: Only top weapon is right-click selectable[/b]
 --------------------------------
+Unlike Extended Storage Clothes racks, there is no supporting code to &apos;Equip&apos; any weapon other than the one on the &apos;top&apos; of the stack in the container building.  The C# coding needed to implement is a bit beyond me at the moment, but I am making progress.
 
-Unlike Extended Storage Clothes racks, there is no supporting code to 'Equip' any weapon other than the one on the 'top' of the stack in the container building.  The C# coding needed to implement is a bit beyond me at the moment, but I am making progress.
-
-<size=24>Thanks to</size>
+[b]Thanks to[/b]
 ================================================================
-
 scullywag, DrVanGogh, and others:  Making and maintaining Extended Storage
 typesgal:  Stamper Font
 Marnador:  Rimword Font
 
-<size=24>Version</size>
+[b]Version[/b]
 ================================================================
-
 This is version 0.6.1.0 and is for RimWorld 1.1.
 
-<size=24>Non-Steam Release URLs</size>
+[b]Non-Steam Release URLs[/b]
 ================================================================
+Latest Release   [url=https://github.com/Terragg/Extended-Storage-Extended/releases/latest]https://github.com/Terragg/Extended-Storage-Extended/releases/latest[/url] on Github.
+All Releases   [url=https://github.com/Terragg/Extended-Storage-Extended/releases/]https://github.com/Terragg/Extended-Storage-Extended/releases/[/url] on Github.
 
-Lateset Release   https://github.com/Terragg/Extended-Storage-Extended/releases/latest on Github.
-
-All Releases   https://github.com/Terragg/Extended-Storage-Extended/releases/ on Github.
- ]]></description>
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
