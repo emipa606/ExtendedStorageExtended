@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Extended Storage Extended (Continued)</name>
   <packageId>Mlie.ExtendedStorageExtended</packageId>
@@ -20,22 +20,26 @@
   <loadAfter>
     <li>Mlie.ExtendedStorage</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of TerraggosaurusRexs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1535875857
 
 - The weapon-storages should now hold all weapons distributed between the sizes by the weapon-mass
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/ExtendedStorageExtended][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 [h1]Extended Storage - now Extended![/h1]
 [b]About[/b]
 ================================================================
@@ -65,11 +69,11 @@ Hat-tip: jinlan
 
 [b]Meat Hooks: Disappearing corpses glitch[/b]
 --------------------------------
-A patch to fix a semi-related issue in Extended Storage now allows corpses to be built in a &apos;bugged&apos; state when splurged.  This bugged state is detected by the game and those corpses are immediately deleted.  There is only one current workaround, do not adjust Meat Hook filters while there are corpses stored - allow pawns to remove all corpses before adjusting filters.
+A patch to fix a semi-related issue in Extended Storage now allows corpses to be built in a 'bugged' state when splurged.  This bugged state is detected by the game and those corpses are immediately deleted.  There is only one current workaround, do not adjust Meat Hook filters while there are corpses stored - allow pawns to remove all corpses before adjusting filters.
 
 [b]Weapons Racks: Only top weapon is right-click selectable[/b]
 --------------------------------
-Unlike Extended Storage Clothes racks, there is no supporting code to &apos;Equip&apos; any weapon other than the one on the &apos;top&apos; of the stack in the container building.  The C# coding needed to implement is a bit beyond me at the moment, but I am making progress.
+Unlike Extended Storage Clothes racks, there is no supporting code to 'Equip' any weapon other than the one on the 'top' of the stack in the container building.  The C# coding needed to implement is a bit beyond me at the moment, but I am making progress.
 
 [b]Thanks to[/b]
 ================================================================
@@ -86,7 +90,7 @@ This is version 0.6.1.0 and is for RimWorld 1.1.
 Latest Release   [url=https://github.com/Terragg/Extended-Storage-Extended/releases/latest]https://github.com/Terragg/Extended-Storage-Extended/releases/latest[/url] on Github.
 All Releases   [url=https://github.com/Terragg/Extended-Storage-Extended/releases/]https://github.com/Terragg/Extended-Storage-Extended/releases/[/url] on Github.
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -97,4 +101,3 @@ All Releases   [url=https://github.com/Terragg/Extended-Storage-Extended/release
 [/list]
 </description>
 </ModMetaData>
-
