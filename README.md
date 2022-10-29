@@ -1,16 +1,16 @@
 # ExtendedStorageExtended
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of TerraggosaurusRexs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1535875857
 
 - The weapon-storages should now hold all weapons distributed between the sizes by the weapon-mass
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 # Extended Storage - now Extended!
 
@@ -42,11 +42,11 @@ Hat-tip: jinlan
 
 **Meat Hooks: Disappearing corpses glitch**
 --------------------------------
-A patch to fix a semi-related issue in Extended Storage now allows corpses to be built in a &apos;bugged&apos; state when splurged.  This bugged state is detected by the game and those corpses are immediately deleted.  There is only one current workaround, do not adjust Meat Hook filters while there are corpses stored - allow pawns to remove all corpses before adjusting filters.
+A patch to fix a semi-related issue in Extended Storage now allows corpses to be built in a 'bugged' state when splurged.  This bugged state is detected by the game and those corpses are immediately deleted.  There is only one current workaround, do not adjust Meat Hook filters while there are corpses stored - allow pawns to remove all corpses before adjusting filters.
 
 **Weapons Racks: Only top weapon is right-click selectable**
 --------------------------------
-Unlike Extended Storage Clothes racks, there is no supporting code to &apos;Equip&apos; any weapon other than the one on the &apos;top&apos; of the stack in the container building.  The C# coding needed to implement is a bit beyond me at the moment, but I am making progress.
+Unlike Extended Storage Clothes racks, there is no supporting code to 'Equip' any weapon other than the one on the 'top' of the stack in the container building.  The C# coding needed to implement is a bit beyond me at the moment, but I am making progress.
 
 **Thanks to**
 ================================================================
@@ -63,7 +63,7 @@ This is version 0.6.1.0 and is for RimWorld 1.1.
 Latest Release   https://github.com/Terragg/Extended-Storage-Extended/releases/latest]https://github.com/Terragg/Extended-Storage-Extended/releases/latest on Github.
 All Releases   https://github.com/Terragg/Extended-Storage-Extended/releases/]https://github.com/Terragg/Extended-Storage-Extended/releases/ on Github.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -73,6 +73,7 @@ All Releases   https://github.com/Terragg/Extended-Storage-Extended/releases/]ht
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
