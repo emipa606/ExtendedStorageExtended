@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="ExtendedStorageExtended_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2566121411</linkUrl>
+		<banner>UpdateInfo/ExtendedStorageExtended</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="ExtendedStorageExtended_UpdateInfoBase" MayRequire="neronix17.toolbox">
+		<defName>ExtendedStorageExtended_1_5_0</defName>
+		<date>2026/1/18</date>
+		<content>This mod will not be further updated.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+

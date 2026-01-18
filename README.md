@@ -1,16 +1,15 @@
-# ExtendedStorageExtended
+# [[Abandoned] Extended Storage Extended (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2566121411)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of TerraggosaurusRexs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1535875857
 
 - The weapon-storages should now hold all weapons distributed between the sizes by the weapon-mass
 
-![Image](https://i.imgur.com/pufA0kM.png)
-
+![Image](https://img.litet.net/logos/Abandoned.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 # Extended Storage - now Extended!
 
@@ -22,13 +21,13 @@ Expands the options for storing stuff by providing Extended Storage-derived buil
 ================================================================
 There is a limit to Steam description readability and size.  The breakdown or what building does what is available online at:
 
-   https://github.com/Terragg/Extended-Storage-Extended/blob/master/Docs/Contents.md]https://github.com/Terragg/Extended-Storage-Extended/blob/master/Docs/Contents.md
+   [https://github.com/Terragg/Extended-Storage-Extended/blob/master/Docs/Contents.md](https://github.com/Terragg/Extended-Storage-Extended/blob/master/Docs/Contents.md)
 
 **Dependancies**
 ================================================================
 Requires a working copy of Extended Storage:
 
-   https://steamcommunity.com/sharedfiles/filedetails/?id=731732064]https://steamcommunity.com/sharedfiles/filedetails/?id=731732064
+   [https://steamcommunity.com/sharedfiles/filedetails/?id=731732064](https://steamcommunity.com/sharedfiles/filedetails/?id=731732064)
 
 **Supports**
 ================================================================
@@ -60,22 +59,21 @@ This is version 0.6.1.0 and is for RimWorld 1.1.
 
 **Non-Steam Release URLs**
 ================================================================
-Latest Release   https://github.com/Terragg/Extended-Storage-Extended/releases/latest]https://github.com/Terragg/Extended-Storage-Extended/releases/latest on Github.
-All Releases   https://github.com/Terragg/Extended-Storage-Extended/releases/]https://github.com/Terragg/Extended-Storage-Extended/releases/ on Github.
+Latest Release   [https://github.com/Terragg/Extended-Storage-Extended/releases/latest](https://github.com/Terragg/Extended-Storage-Extended/releases/latest) on Github.
+All Releases   [https://github.com/Terragg/Extended-Storage-Extended/releases/](https://github.com/Terragg/Extended-Storage-Extended/releases/) on Github.
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2566121411]![Image](https://img.shields.io/github/v/release/emipa606/ExtendedStorageExtended?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/ExtendedStorageExtended?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2566121411)
